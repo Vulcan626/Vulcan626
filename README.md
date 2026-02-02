@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vulcan626
+- 👋 Hi, I’m @Zhanbo Hua
 - 👀 I’m interested in AD && VLM
 - 🌱 I’m currently learning VLM
 - 💞️ I’m looking to collaborate on LLM
