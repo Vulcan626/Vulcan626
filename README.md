@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Zhanbo Hua
-- 👀 I’m interested in AD && VLM
-- 🌱 I’m currently learning VLM
-- 💞️ I’m looking to collaborate on LLM
-- 📫 How to reach me : Email: 08212759@cumt.edu.cn
+👋 Hi, I’m Zhanbo Hua  
 
+🧠 A miner focused on **DATA & AI**.
+
+🔍 Research interests:
+- Autonomous Driving (AD)
+- Vision-Language Models (VLM)
+- LLM systems & evaluation (TerminalBench, agent-based benchmarking)
+
+📫 Email: huazhanbo@gmail.com
