@@ -1,8 +1,8 @@
 👋 Hi, I’m Zhanbo Hua  
 
-🧠 A miner focused on **DATA & AI**.
+⛏️ A miner focused on **DATA & AI**.
 
-🔍 Research interests:
+✨ Research interests:
 - Autonomous Driving (AD)
 - Vision-Language Models (VLM)
 - LLM systems & evaluation (TerminalBench, agent-based benchmarking)
