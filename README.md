@@ -27,11 +27,3 @@ Exploring the frontier of **Agentic AI**
 ## 📫 Contact
 
 - Email: huazhanbo@gmail.com
-
----
-
-<div align="center">
-
-*"Mining intelligence from data, systems, and environments."*
-
-</div>
