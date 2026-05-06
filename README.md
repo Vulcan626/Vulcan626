@@ -1,10 +1,37 @@
-👋 Hi, I’m Zhanbo Hua  
+# Hi there, I'm Zhanbo Hua 👋
 
-⛏️ A miner focused on **DATA & AI**.
+<div align="center">
 
-✨ Research interests:
-- Autonomous Driving (AD)
-- Vision-Language Models (VLM)
-- LLM systems & evaluation (TerminalBench, agent-based benchmarking)
+### ⛏️ MINER for Data && AI
 
-📫 Email: huazhanbo@gmail.com
+Exploring the frontier of **Agentic AI**
+
+</div>
+
+---
+
+## 🔬 Current Research Focus
+
+### Agentic RL
+
+### LLM Evaluation & Infrastructure
+
+- Agent benchmarks
+- Synthetic task generation
+
+### Autonomous driving
+
+
+---
+
+## 📫 Contact
+
+- Email: huazhanbo@gmail.com
+
+---
+
+<div align="center">
+
+*"Mining intelligence from data, systems, and environments."*
+
+</div>
