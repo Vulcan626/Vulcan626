@@ -19,7 +19,9 @@ Exploring the frontier of **Agentic AI**
 - Agent benchmarks
 - Synthetic task generation
 
-### Autonomous driving
+### CV
+
+- Autonomous driving
 
 
 ---
