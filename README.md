@@ -1,31 +1,7 @@
-# Hi there, I'm Zhanbo Hua 👋
+# Zhanbo Hua
 
-<div align="center">
+A Data & AI miner exploring the frontier of agentic AI.
 
-### ⛏️ MINER for Data && AI
+`Agentic RL` · `LLM Evaluation` · `Agent Infrastructure` · `Autonomous Driving`
 
-Exploring the frontier of **Agentic AI**
-
-</div>
-
----
-
-## 🔬 Current Research Focus
-
-### Agentic RL
-
-### LLM Evaluation & Infrastructure
-
-- Agent benchmarks
-- Synthetic task generation
-
-### CV
-
-- Autonomous driving
-
-
----
-
-## 📫 Contact
-
-- Email: huazhanbo@gmail.com
+[Website](https://vulcan626.github.io) · [Email](mailto:huazhanbo@gmail.com)
